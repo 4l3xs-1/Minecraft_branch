@@ -1,0 +1,70 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    difficulty: HARD
+    seed: 8166113072158142270
+    environment: NORMAL
+    name: world
+    info: -/-
+    mohist: false
+    keepspawninmemory: true
+  moon:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  moon_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  earth_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  DIM-1:
+    worldborder: 5.9999968E7
+  twilight_forest:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: twilightforest
+  mercury:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  DIM1:
+    worldborder: 5.9999968E7
+  mars_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  mercury_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  otherside:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: deeperdarker
+  venus_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  venus:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  the_aether:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: aether
+  glacio_orbit:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  mars:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
+  glacio:
+    worldborder: 5.9999968E7
+    ismods: true
+    modName: ad_astra
